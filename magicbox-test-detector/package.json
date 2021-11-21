@@ -1,0 +1,26 @@
+{
+  "name": "verdemarkt",
+  "version": "1.0.0",
+  "description": "The scraper to get product lists",
+  "main": "dist/main.js",
+  "scripts": {
+    "transpile": "tsc -p source",
+    "start": "node dist/main",
+    "serve": "npm run transpile && npm start"
+  },
+  "author": "Eugenio Vinicio Berretta <euberdeveloper@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "@azure/cognitiveservices-customvision-prediction": "^5.1.2",
+    "@azure/cognitiveservices-customvision-training": "^5.2.0",
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "euberlog": "^2.0.18",
+    "image-size": "^1.0.0",
+    "polygon-overlap": "^1.0.5"
+  }
+}

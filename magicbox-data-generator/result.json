@@ -1,0 +1,2558 @@
+[
+  {
+    "id": 0,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00073.png",
+    "scratch": 0.99875665,
+    "box": {
+      "left": 0.39089713,
+      "top": 0.2975683,
+      "width": 0.24631003,
+      "height": 0.5812012
+    }
+  },
+  {
+    "id": 1,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00077.png",
+    "scratch": 0.99766845,
+    "box": {
+      "left": 0.3798314,
+      "top": 0.30602455,
+      "width": 0.25354043,
+      "height": 0.5899191
+    }
+  },
+  {
+    "id": 2,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00085.png",
+    "scratch": 0.99889874,
+    "box": {
+      "left": 0.36048245,
+      "top": 0.19506778,
+      "width": 0.19486248,
+      "height": 0.4537884
+    }
+  },
+  {
+    "id": 3,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00088.png",
+    "scratch": 0.9990879,
+    "box": {
+      "left": 0.3738049,
+      "top": 0.3167624,
+      "width": 0.24163178,
+      "height": 0.5793427
+    }
+  },
+  {
+    "id": 4,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00090.png",
+    "scratch": 0.99991465,
+    "box": {
+      "left": 0.36925927,
+      "top": 0.21839711,
+      "width": 0.32537362,
+      "height": 0.78160286
+    }
+  },
+  {
+    "id": 5,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00089.png",
+    "scratch": 0.999899,
+    "box": {
+      "left": 0.38662234,
+      "top": 0.24477997,
+      "width": 0.19302908,
+      "height": 0.46866235
+    }
+  },
+  {
+    "id": 6,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00094.png",
+    "scratch": 0.9998481,
+    "box": {
+      "left": 0.36222643,
+      "top": 0.1869968,
+      "width": 0.33203858,
+      "height": 0.8130032
+    }
+  },
+  {
+    "id": 7,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00095.png",
+    "scratch": 0.9999294,
+    "box": {
+      "left": 0.3676317,
+      "top": 0.1829822,
+      "width": 0.3264692,
+      "height": 0.8170178
+    }
+  },
+  {
+    "id": 8,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00099.png",
+    "scratch": 0.9700085,
+    "box": {
+      "left": 0.3415305,
+      "top": 0.19705346,
+      "width": 0.18762529,
+      "height": 0.44894794
+    }
+  },
+  {
+    "id": 9,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00100.png",
+    "scratch": 0.97845036,
+    "box": {
+      "left": 0.34096393,
+      "top": 0.19911642,
+      "width": 0.18849811,
+      "height": 0.44284928
+    }
+  },
+  {
+    "id": 10,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00075.png",
+    "scratch": 0.030734200000000045,
+    "box": {
+      "left": 0.773381,
+      "top": 0,
+      "width": 0.226619,
+      "height": 0.98786163
+    }
+  },
+  {
+    "id": 11,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00096.png",
+    "scratch": 0.0744222,
+    "box": {
+      "left": 0.5455213,
+      "top": 0.4745292,
+      "width": 0.14582485,
+      "height": 0.44186604
+    }
+  },
+  {
+    "id": 12,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00092.png",
+    "scratch": 0.07610910000000004,
+    "box": {
+      "left": 0.73748255,
+      "top": 0.91284007,
+      "width": 0.26251745,
+      "height": 0.08715993
+    }
+  },
+  {
+    "id": 13,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00091.png",
+    "scratch": 0.08200929999999995,
+    "box": {
+      "left": 0.07664039,
+      "top": 0.25995737,
+      "width": 0.35046133,
+      "height": 0.7400426
+    }
+  },
+  {
+    "id": 14,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00097.png",
+    "scratch": 0.06992394000000002,
+    "box": {
+      "left": 0.0032181488,
+      "top": 0.0068571568,
+      "width": 0.22980756,
+      "height": 0.99314284
+    }
+  },
+  {
+    "id": 15,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00098.png",
+    "scratch": 0.27132744,
+    "box": {
+      "left": 0.0040764497,
+      "top": 0.018595185,
+      "width": 0.19375633,
+      "height": 0.98140484
+    }
+  },
+  {
+    "id": 16,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00101.png",
+    "scratch": 0.039522049999999975,
+    "box": {
+      "left": 0.19608706,
+      "top": 0.36135706,
+      "width": 0.14105439,
+      "height": 0.6188332
+    }
+  },
+  {
+    "id": 17,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00008.png",
+    "scratch": 0.10432799999999998,
+    "box": {
+      "left": 0.73057705,
+      "top": 0,
+      "width": 0.26942295,
+      "height": 0.9782144
+    }
+  },
+  {
+    "id": 18,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00003.png",
+    "scratch": 0.9973224,
+    "box": {
+      "left": 0.3744832,
+      "top": 0.02462714,
+      "width": 0.19335678,
+      "height": 0.39591572
+    }
+  },
+  {
+    "id": 19,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00011.png",
+    "scratch": 0.99776053,
+    "box": {
+      "left": 0.4382266,
+      "top": 0.04367096,
+      "width": 0.18855968,
+      "height": 0.3835323
+    }
+  },
+  {
+    "id": 20,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00012.png",
+    "scratch": 0.9994856,
+    "box": {
+      "left": 0.43039945,
+      "top": 0.007134046,
+      "width": 0.19066307,
+      "height": 0.4180626
+    }
+  },
+  {
+    "id": 21,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00015.png",
+    "scratch": 0.9896702,
+    "box": {
+      "left": 0.40323895,
+      "top": 0.02457876,
+      "width": 0.19343328,
+      "height": 0.41060314
+    }
+  },
+  {
+    "id": 22,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00021.png",
+    "scratch": 0.9124245,
+    "box": {
+      "left": 0.43865198,
+      "top": 0.030908823,
+      "width": 0.19753528,
+      "height": 0.4192035
+    }
+  },
+  {
+    "id": 23,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00022.png",
+    "scratch": 0.97828215,
+    "box": {
+      "left": 0.47098863,
+      "top": 0.09820677,
+      "width": 0.16821039,
+      "height": 0.3444574
+    }
+  },
+  {
+    "id": 24,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00023.png",
+    "scratch": 0.99547523,
+    "box": {
+      "left": 0.42459232,
+      "top": 0.024167588,
+      "width": 0.19221014,
+      "height": 0.399183
+    }
+  },
+  {
+    "id": 25,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00028.png",
+    "scratch": 0.99749076,
+    "box": {
+      "left": 0.39953732,
+      "top": 0.0052409684,
+      "width": 0.19086075,
+      "height": 0.41878122
+    }
+  },
+  {
+    "id": 26,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00024.png",
+    "scratch": 0.97703743,
+    "box": {
+      "left": 0.44542414,
+      "top": 0.02503998,
+      "width": 0.19595188,
+      "height": 0.42132244
+    }
+  },
+  {
+    "id": 27,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00029.png",
+    "scratch": 0.9972715,
+    "box": {
+      "left": 0.4174884,
+      "top": 0.00608778,
+      "width": 0.18422168,
+      "height": 0.4186142
+    }
+  },
+  {
+    "id": 28,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00034.png",
+    "scratch": 0.99091643,
+    "box": {
+      "left": 0.40777394,
+      "top": 0.0035369906,
+      "width": 0.18801221,
+      "height": 0.42709783
+    }
+  },
+  {
+    "id": 29,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00039.png",
+    "scratch": 0.9997383,
+    "box": {
+      "left": 0.42920935,
+      "top": 0.0080577135,
+      "width": 0.18836415,
+      "height": 0.42136446
+    }
+  },
+  {
+    "id": 30,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00038.png",
+    "scratch": 0.9997546,
+    "box": {
+      "left": 0.42554113,
+      "top": 0.0043511903,
+      "width": 0.1918861,
+      "height": 0.42461765
+    }
+  },
+  {
+    "id": 31,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00042.png",
+    "scratch": 0.9997676,
+    "box": {
+      "left": 0.42653978,
+      "top": 0.0040847575,
+      "width": 0.18982565,
+      "height": 0.42425352
+    }
+  },
+  {
+    "id": 32,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00040.png",
+    "scratch": 0.9997676,
+    "box": {
+      "left": 0.42653978,
+      "top": 0.0040847575,
+      "width": 0.18982565,
+      "height": 0.42425352
+    }
+  },
+  {
+    "id": 33,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00041.png",
+    "scratch": 0.9997676,
+    "box": {
+      "left": 0.42653978,
+      "top": 0.0040847575,
+      "width": 0.18982565,
+      "height": 0.42425352
+    }
+  },
+  {
+    "id": 34,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00043.png",
+    "scratch": 0.9679691,
+    "box": {
+      "left": 0.4103767,
+      "top": 0,
+      "width": 0.1675395,
+      "height": 0.22069857
+    }
+  },
+  {
+    "id": 35,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00046.png",
+    "scratch": 0.9998857,
+    "box": {
+      "left": 0.38216293,
+      "top": 0.005460637,
+      "width": 0.18234205,
+      "height": 0.43156987
+    }
+  },
+  {
+    "id": 36,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00001(1).png",
+    "scratch": 0.07982193999999998,
+    "box": {
+      "left": 0.92929536,
+      "top": 0.00056079455,
+      "width": 0.07070464,
+      "height": 0.27188373
+    }
+  },
+  {
+    "id": 37,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/bad/garching00047.png",
+    "scratch": 0.9194958,
+    "box": {
+      "left": 0.3675938,
+      "top": 0,
+      "width": 0.15412417,
+      "height": 0.23020376
+    }
+  },
+  {
+    "id": 38,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00002.png",
+    "scratch": 0.03093860000000004,
+    "box": {
+      "left": 0.010428014,
+      "top": 0.04268091,
+      "width": 0.3745183,
+      "height": 0.87514967
+    }
+  },
+  {
+    "id": 39,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00001.png",
+    "scratch": 0.07982193999999998,
+    "box": {
+      "left": 0.92929536,
+      "top": 0.00056079455,
+      "width": 0.07070464,
+      "height": 0.27188373
+    }
+  },
+  {
+    "id": 40,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00004.png",
+    "scratch": 0.14479379999999997,
+    "box": {
+      "left": 0.7864245,
+      "top": 0,
+      "width": 0.21357548,
+      "height": 0.97170544
+    }
+  },
+  {
+    "id": 41,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00005(1).png",
+    "scratch": 0.03948189999999996,
+    "box": {
+      "left": 0.8182027,
+      "top": 0,
+      "width": 0.18179733,
+      "height": 0.9655579
+    }
+  },
+  {
+    "id": 42,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00005.png",
+    "scratch": 0.03948189999999996,
+    "box": {
+      "left": 0.8182027,
+      "top": 0,
+      "width": 0.18179733,
+      "height": 0.9655579
+    }
+  },
+  {
+    "id": 43,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00006.png",
+    "scratch": 0.0337769,
+    "box": {
+      "left": 0.7755486,
+      "top": 0,
+      "width": 0.22445142,
+      "height": 0.91664696
+    }
+  },
+  {
+    "id": 44,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00009.png",
+    "scratch": 0.13266486,
+    "box": {
+      "left": 0.021546891,
+      "top": 0.02665925,
+      "width": 0.2690513,
+      "height": 0.8400832
+    }
+  },
+  {
+    "id": 45,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00010(1).png",
+    "scratch": 0.04420745000000004,
+    "box": {
+      "left": 0.012394014,
+      "top": 0.90921324,
+      "width": 0.30599484,
+      "height": 0.090786755
+    }
+  },
+  {
+    "id": 46,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00013.png",
+    "scratch": 0.32335309999999995,
+    "box": {
+      "left": 0.7380928,
+      "top": 0,
+      "width": 0.26190722,
+      "height": 0.99664074
+    }
+  },
+  {
+    "id": 47,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00010.png",
+    "scratch": 0.04420745000000004,
+    "box": {
+      "left": 0.012394014,
+      "top": 0.90921324,
+      "width": 0.30599484,
+      "height": 0.090786755
+    }
+  },
+  {
+    "id": 48,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00014(1).png",
+    "scratch": 0.13342034999999997,
+    "box": {
+      "left": 0.011804844,
+      "top": 0.027215412,
+      "width": 0.2932331,
+      "height": 0.7907414
+    }
+  },
+  {
+    "id": 49,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00014.png",
+    "scratch": 0.13342034999999997,
+    "box": {
+      "left": 0.011804844,
+      "top": 0.027215412,
+      "width": 0.2932331,
+      "height": 0.7907414
+    }
+  },
+  {
+    "id": 50,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00016(1).png",
+    "scratch": 0.39337754,
+    "box": {
+      "left": 0.03396481,
+      "top": 0.5508304,
+      "width": 0.6475627,
+      "height": 0.44916958
+    }
+  },
+  {
+    "id": 51,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00017.png",
+    "scratch": 0.21257216,
+    "box": {
+      "left": 0.050283533,
+      "top": 0.56951135,
+      "width": 0.66031224,
+      "height": 0.43048865
+    }
+  },
+  {
+    "id": 52,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00016.png",
+    "scratch": 0.39337754,
+    "box": {
+      "left": 0.03396481,
+      "top": 0.5508304,
+      "width": 0.6475627,
+      "height": 0.44916958
+    }
+  },
+  {
+    "id": 53,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00019(1).png",
+    "scratch": 0.38661456000000005,
+    "box": {
+      "left": 0.77356094,
+      "top": 0.0034981114,
+      "width": 0.22643906,
+      "height": 0.99650186
+    }
+  },
+  {
+    "id": 54,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00018.png",
+    "scratch": 0.07647424999999997,
+    "box": {
+      "left": 0.030676415,
+      "top": 0.016044412,
+      "width": 0.32071656,
+      "height": 0.92227066
+    }
+  },
+  {
+    "id": 55,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00019.png",
+    "scratch": 0.38661456000000005,
+    "box": {
+      "left": 0.77356094,
+      "top": 0.0034981114,
+      "width": 0.22643906,
+      "height": 0.99650186
+    }
+  },
+  {
+    "id": 56,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00025(1).png",
+    "scratch": 0.06707479999999999,
+    "box": {
+      "left": 0.6220144,
+      "top": 0.46977305,
+      "width": 0.07066071,
+      "height": 0.15250087
+    }
+  },
+  {
+    "id": 57,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00025.png",
+    "scratch": 0.06707479999999999,
+    "box": {
+      "left": 0.6220144,
+      "top": 0.46977305,
+      "width": 0.07066071,
+      "height": 0.15250087
+    }
+  },
+  {
+    "id": 58,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00026.png",
+    "scratch": 0.70932513,
+    "box": {
+      "left": 0.4262567,
+      "top": 0,
+      "width": 0.12953308,
+      "height": 0.21834561
+    }
+  },
+  {
+    "id": 59,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00026(1).png",
+    "scratch": 0.70932513,
+    "box": {
+      "left": 0.4262567,
+      "top": 0,
+      "width": 0.12953308,
+      "height": 0.21834561
+    }
+  },
+  {
+    "id": 60,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00027.png",
+    "scratch": 0.49852810000000003,
+    "box": {
+      "left": 0.0317857,
+      "top": 0.06831554,
+      "width": 0.25450772,
+      "height": 0.76828253
+    }
+  },
+  {
+    "id": 61,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00036(1).png",
+    "scratch": 0.07960296,
+    "box": {
+      "left": 0.0141912885,
+      "top": 0.022989681,
+      "width": 0.26520526,
+      "height": 0.8827082
+    }
+  },
+  {
+    "id": 62,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00032.png",
+    "scratch": 0.32607626999999995,
+    "box": {
+      "left": 0.12311659,
+      "top": 0.07601339,
+      "width": 0.16164923,
+      "height": 0.6702621
+    }
+  },
+  {
+    "id": 63,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00037(1).png",
+    "scratch": 0.06326365,
+    "box": {
+      "left": 0.74882007,
+      "top": 0.9065731,
+      "width": 0.25117993,
+      "height": 0.09342688
+    }
+  },
+  {
+    "id": 64,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00037.png",
+    "scratch": 0.06326365,
+    "box": {
+      "left": 0.74882007,
+      "top": 0.9065731,
+      "width": 0.25117993,
+      "height": 0.09342688
+    }
+  },
+  {
+    "id": 65,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00036.png",
+    "scratch": 0.07960296,
+    "box": {
+      "left": 0.0141912885,
+      "top": 0.022989681,
+      "width": 0.26520526,
+      "height": 0.8827082
+    }
+  },
+  {
+    "id": 66,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00044(1).png",
+    "scratch": 0.13975203000000003,
+    "box": {
+      "left": 0.7807967,
+      "top": 0,
+      "width": 0.2192033,
+      "height": 1
+    }
+  },
+  {
+    "id": 67,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/bad/003.png",
+    "scratch": 0.9865211,
+    "box": {
+      "left": 0.36115345,
+      "top": 0.31384063,
+      "width": 0.20663539,
+      "height": 0.3709451
+    }
+  },
+  {
+    "id": 68,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00044.png",
+    "scratch": 0.13975203000000003,
+    "box": {
+      "left": 0.7807967,
+      "top": 0,
+      "width": 0.2192033,
+      "height": 1
+    }
+  },
+  {
+    "id": 69,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00044(2).png",
+    "scratch": 0.13975203000000003,
+    "box": {
+      "left": 0.7807967,
+      "top": 0,
+      "width": 0.2192033,
+      "height": 1
+    }
+  },
+  {
+    "id": 70,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00045.png",
+    "scratch": 0.09495010000000004,
+    "box": {
+      "left": 0.74668634,
+      "top": 0.90404195,
+      "width": 0.25331366,
+      "height": 0.095958054
+    }
+  },
+  {
+    "id": 71,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/bad/004.png",
+    "scratch": 0.5678698,
+    "box": {
+      "left": 0.41931984,
+      "top": 0.5082259,
+      "width": 0.13158539,
+      "height": 0.24784613
+    }
+  },
+  {
+    "id": 72,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/001.png",
+    "scratch": 0.09238559999999996,
+    "box": {
+      "left": 0.5555099,
+      "top": 0.502769,
+      "width": 0.123824835,
+      "height": 0.30633724
+    }
+  },
+  {
+    "id": 73,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/002.png",
+    "scratch": 0.017343899999999968,
+    "box": {
+      "left": 0.74213576,
+      "top": 0.16912517,
+      "width": 0.25786424,
+      "height": 0.7949735
+    }
+  },
+  {
+    "id": 74,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/bad/013.png",
+    "scratch": 0.9860532,
+    "box": {
+      "left": 0.3726084,
+      "top": 0.31325603,
+      "width": 0.21776733,
+      "height": 0.35336322
+    }
+  },
+  {
+    "id": 75,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/019.png",
+    "scratch": 0.09083056,
+    "box": {
+      "left": 0.43030953,
+      "top": 0.5578679,
+      "width": 0.08885729,
+      "height": 0.19857955
+    }
+  },
+  {
+    "id": 76,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/025.png",
+    "scratch": 0.04875934000000004,
+    "box": {
+      "left": 0.72918403,
+      "top": 0.12691969,
+      "width": 0.27081597,
+      "height": 0.8557902
+    }
+  },
+  {
+    "id": 77,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00045.png",
+    "scratch": 0.018264949999999947,
+    "box": {
+      "left": 0.70835817,
+      "top": 0,
+      "width": 0.29164183,
+      "height": 1
+    }
+  },
+  {
+    "id": 78,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00050(1).png",
+    "scratch": 0.03710926000000003,
+    "box": {
+      "left": 0.75864637,
+      "top": 0,
+      "width": 0.24135363,
+      "height": 1
+    }
+  },
+  {
+    "id": 79,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00046.png",
+    "scratch": 0.07144980000000001,
+    "box": {
+      "left": 0.13630871,
+      "top": 0.3340941,
+      "width": 0.112963304,
+      "height": 0.4149934
+    }
+  },
+  {
+    "id": 80,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00050.png",
+    "scratch": 0.03710926000000003,
+    "box": {
+      "left": 0.75864637,
+      "top": 0,
+      "width": 0.24135363,
+      "height": 1
+    }
+  },
+  {
+    "id": 81,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00054.png",
+    "scratch": 0.07936460000000001,
+    "box": {
+      "left": 0.0069169747,
+      "top": 0.14746515,
+      "width": 0.2882002,
+      "height": 0.85253483
+    }
+  },
+  {
+    "id": 82,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00051.png",
+    "scratch": 0.01210599999999995,
+    "box": {
+      "left": 0.72622293,
+      "top": 0,
+      "width": 0.27377707,
+      "height": 0.9376711
+    }
+  },
+  {
+    "id": 83,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00056.png",
+    "scratch": 0.10223369999999998,
+    "box": {
+      "left": 0.023497814,
+      "top": 0.75062686,
+      "width": 0.114728026,
+      "height": 0.24937314
+    }
+  },
+  {
+    "id": 84,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00055.png",
+    "scratch": 0.02184706999999997,
+    "box": {
+      "left": 0,
+      "top": 0.1329299,
+      "width": 0.29978642,
+      "height": 0.8670701
+    }
+  },
+  {
+    "id": 85,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00070.png",
+    "scratch": 0.026337269999999968,
+    "box": {
+      "left": 0.7473917,
+      "top": 0.029854639,
+      "width": 0.2526083,
+      "height": 0.97014534
+    }
+  },
+  {
+    "id": 86,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00047.png",
+    "scratch": 0.9998754,
+    "box": {
+      "left": 0.38190073,
+      "top": 0.1365586,
+      "width": 0.2588737,
+      "height": 0.586306
+    }
+  },
+  {
+    "id": 87,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00049.png",
+    "scratch": 0.9984786,
+    "box": {
+      "left": 0.34557644,
+      "top": 0.051212616,
+      "width": 0.18744096,
+      "height": 0.45550752
+    }
+  },
+  {
+    "id": 88,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00052(1).png",
+    "scratch": 0.9994708,
+    "box": {
+      "left": 0.3132565,
+      "top": 0.15971674,
+      "width": 0.23776436,
+      "height": 0.5883279
+    }
+  },
+  {
+    "id": 89,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00049(1).png",
+    "scratch": 0.9984786,
+    "box": {
+      "left": 0.34557644,
+      "top": 0.051212616,
+      "width": 0.18744096,
+      "height": 0.45550752
+    }
+  },
+  {
+    "id": 90,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00048.png",
+    "scratch": 0.9999076,
+    "box": {
+      "left": 0.38472357,
+      "top": 0.14155586,
+      "width": 0.2562801,
+      "height": 0.583783
+    }
+  },
+  {
+    "id": 91,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00053(1).png",
+    "scratch": 0.999172,
+    "box": {
+      "left": 0.3453008,
+      "top": 0.065057956,
+      "width": 0.20228052,
+      "height": 0.47124234
+    }
+  },
+  {
+    "id": 92,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00052.png",
+    "scratch": 0.9994708,
+    "box": {
+      "left": 0.3132565,
+      "top": 0.15971674,
+      "width": 0.23776436,
+      "height": 0.5883279
+    }
+  },
+  {
+    "id": 93,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00053.png",
+    "scratch": 0.999172,
+    "box": {
+      "left": 0.3453008,
+      "top": 0.065057956,
+      "width": 0.20228052,
+      "height": 0.47124234
+    }
+  },
+  {
+    "id": 94,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00057.png",
+    "scratch": 0.9999695,
+    "box": {
+      "left": 0.31525105,
+      "top": 0.13861534,
+      "width": 0.24882168,
+      "height": 0.5834068
+    }
+  },
+  {
+    "id": 95,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00080.png",
+    "scratch": 0.9994578,
+    "box": {
+      "left": 0.35510436,
+      "top": 0.03603547,
+      "width": 0.19939914,
+      "height": 0.46514517
+    }
+  },
+  {
+    "id": 96,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00002.png",
+    "scratch": 0.9996717,
+    "box": {
+      "left": 0.308378,
+      "top": 0.10243698,
+      "width": 0.24424955,
+      "height": 0.6046938
+    }
+  },
+  {
+    "id": 97,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00003(1).png",
+    "scratch": 0.90944767,
+    "box": {
+      "left": 0.2902355,
+      "top": 0.061141152,
+      "width": 0.17102492,
+      "height": 0.43362212
+    }
+  },
+  {
+    "id": 98,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00003.png",
+    "scratch": 0.90944767,
+    "box": {
+      "left": 0.2902355,
+      "top": 0.061141152,
+      "width": 0.17102492,
+      "height": 0.43362212
+    }
+  },
+  {
+    "id": 99,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00005(1).png",
+    "scratch": 0.99812835,
+    "box": {
+      "left": 0.22820477,
+      "top": 0.13527179,
+      "width": 0.22922452,
+      "height": 0.5779863
+    }
+  },
+  {
+    "id": 100,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00005.png",
+    "scratch": 0.99812835,
+    "box": {
+      "left": 0.22820477,
+      "top": 0.13527179,
+      "width": 0.22922452,
+      "height": 0.5779863
+    }
+  },
+  {
+    "id": 101,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00010(1).png",
+    "scratch": 0.9999696,
+    "box": {
+      "left": 0.33606502,
+      "top": 0.1159433,
+      "width": 0.23514977,
+      "height": 0.58245486
+    }
+  },
+  {
+    "id": 102,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00006.png",
+    "scratch": 0.69360715,
+    "box": {
+      "left": 0.27159667,
+      "top": 0.085756354,
+      "width": 0.16313839,
+      "height": 0.41120312
+    }
+  },
+  {
+    "id": 103,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00011(1).png",
+    "scratch": 0.6991371,
+    "box": {
+      "left": 0.2946578,
+      "top": 0.05515543,
+      "width": 0.16908768,
+      "height": 0.41996384
+    }
+  },
+  {
+    "id": 104,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00010.png",
+    "scratch": 0.9999696,
+    "box": {
+      "left": 0.33606502,
+      "top": 0.1159433,
+      "width": 0.23514977,
+      "height": 0.58245486
+    }
+  },
+  {
+    "id": 105,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00011.png",
+    "scratch": 0.6991371,
+    "box": {
+      "left": 0.2946578,
+      "top": 0.05515543,
+      "width": 0.16908768,
+      "height": 0.41996384
+    }
+  },
+  {
+    "id": 106,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00014.png",
+    "scratch": 0.9999298,
+    "box": {
+      "left": 0.3383772,
+      "top": 0.13363369,
+      "width": 0.24451253,
+      "height": 0.59261066
+    }
+  },
+  {
+    "id": 107,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00012.png",
+    "scratch": 0.8693137,
+    "box": {
+      "left": 0.29417896,
+      "top": 0.048795767,
+      "width": 0.17389569,
+      "height": 0.42999265
+    }
+  },
+  {
+    "id": 108,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00015(1).png",
+    "scratch": 0.8302136,
+    "box": {
+      "left": 0.29026663,
+      "top": 0.09045652,
+      "width": 0.16916662,
+      "height": 0.42283872
+    }
+  },
+  {
+    "id": 109,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00015.png",
+    "scratch": 0.8302136,
+    "box": {
+      "left": 0.29026663,
+      "top": 0.09045652,
+      "width": 0.16916662,
+      "height": 0.42283872
+    }
+  },
+  {
+    "id": 110,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00019(1).png",
+    "scratch": 0.9999238,
+    "box": {
+      "left": 0.34595394,
+      "top": 0.13765995,
+      "width": 0.24625456,
+      "height": 0.5883181
+    }
+  },
+  {
+    "id": 111,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00019.png",
+    "scratch": 0.9999238,
+    "box": {
+      "left": 0.34595394,
+      "top": 0.13765995,
+      "width": 0.24625456,
+      "height": 0.5883181
+    }
+  },
+  {
+    "id": 112,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00020.png",
+    "scratch": 0.878245,
+    "box": {
+      "left": 0.2924375,
+      "top": 0.054069433,
+      "width": 0.18797347,
+      "height": 0.46207014
+    }
+  },
+  {
+    "id": 113,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00023.png",
+    "scratch": 0.9999801,
+    "box": {
+      "left": 0.3325637,
+      "top": 0.16315675,
+      "width": 0.2409687,
+      "height": 0.5831674
+    }
+  },
+  {
+    "id": 114,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00024.png",
+    "scratch": 0.9978399,
+    "box": {
+      "left": 0.3115985,
+      "top": 0.07173569,
+      "width": 0.19131342,
+      "height": 0.46440774
+    }
+  },
+  {
+    "id": 115,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00027.png",
+    "scratch": 0.99996984,
+    "box": {
+      "left": 0.32348356,
+      "top": 0.11221164,
+      "width": 0.24737248,
+      "height": 0.5953362
+    }
+  },
+  {
+    "id": 116,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00028.png",
+    "scratch": 0.83956814,
+    "box": {
+      "left": 0.28638273,
+      "top": 0.05101102,
+      "width": 0.17197245,
+      "height": 0.42708808
+    }
+  },
+  {
+    "id": 117,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00031.png",
+    "scratch": 0.9999764,
+    "box": {
+      "left": 0.34094942,
+      "top": 0.10972544,
+      "width": 0.23855853,
+      "height": 0.59820855
+    }
+  },
+  {
+    "id": 118,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00031(1).png",
+    "scratch": 0.9999764,
+    "box": {
+      "left": 0.34094942,
+      "top": 0.10972544,
+      "width": 0.23855853,
+      "height": 0.59820855
+    }
+  },
+  {
+    "id": 119,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00032.png",
+    "scratch": 0.99441683,
+    "box": {
+      "left": 0.34022164,
+      "top": 0.037201557,
+      "width": 0.17907739,
+      "height": 0.44266796
+    }
+  },
+  {
+    "id": 120,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00036.png",
+    "scratch": 0.988451,
+    "box": {
+      "left": 0.33239797,
+      "top": 0.069420524,
+      "width": 0.17760095,
+      "height": 0.43796754
+    }
+  },
+  {
+    "id": 121,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00035.png",
+    "scratch": 0.9999012,
+    "box": {
+      "left": 0.33500335,
+      "top": 0.14003137,
+      "width": 0.23945591,
+      "height": 0.59173656
+    }
+  },
+  {
+    "id": 122,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00036(1).png",
+    "scratch": 0.988451,
+    "box": {
+      "left": 0.33239797,
+      "top": 0.069420524,
+      "width": 0.17760095,
+      "height": 0.43796754
+    }
+  },
+  {
+    "id": 123,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00039.png",
+    "scratch": 0.999987,
+    "box": {
+      "left": 0.37553674,
+      "top": 0.12241626,
+      "width": 0.25062793,
+      "height": 0.59321946
+    }
+  },
+  {
+    "id": 124,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00040.png",
+    "scratch": 0.9992217,
+    "box": {
+      "left": 0.3451345,
+      "top": 0.048254304,
+      "width": 0.18414855,
+      "height": 0.4530037
+    }
+  },
+  {
+    "id": 125,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00040(1).png",
+    "scratch": 0.9992217,
+    "box": {
+      "left": 0.3451345,
+      "top": 0.048254304,
+      "width": 0.18414855,
+      "height": 0.4530037
+    }
+  },
+  {
+    "id": 126,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00044.png",
+    "scratch": 0.99675107,
+    "box": {
+      "left": 0.27746034,
+      "top": 0.06488323,
+      "width": 0.1913642,
+      "height": 0.4675169
+    }
+  },
+  {
+    "id": 127,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/bad/garching00043.png",
+    "scratch": 0.9993698,
+    "box": {
+      "left": 0.2971045,
+      "top": 0.14874697,
+      "width": 0.23321292,
+      "height": 0.58395296
+    }
+  },
+  {
+    "id": 128,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00008.png",
+    "scratch": 0.14962083000000004,
+    "box": {
+      "left": 0.0065583177,
+      "top": 0.07977067,
+      "width": 0.24850728,
+      "height": 0.9202293
+    }
+  },
+  {
+    "id": 129,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00007.png",
+    "scratch": 0.18577670000000002,
+    "box": {
+      "left": 0.008941939,
+      "top": 0.092980795,
+      "width": 0.2396269,
+      "height": 0.9070192
+    }
+  },
+  {
+    "id": 130,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00013(1).png",
+    "scratch": 0.060394640000000055,
+    "box": {
+      "left": 0.7302319,
+      "top": 0.052334957,
+      "width": 0.26976812,
+      "height": 0.94766504
+    }
+  },
+  {
+    "id": 131,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00009.png",
+    "scratch": 0.015143930000000028,
+    "box": {
+      "left": 0.648208,
+      "top": 0.016462531,
+      "width": 0.32705355,
+      "height": 0.9835375
+    }
+  },
+  {
+    "id": 132,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00016.png",
+    "scratch": 0.16195899999999996,
+    "box": {
+      "left": 0.02652044,
+      "top": 0.15179051,
+      "width": 0.28680602,
+      "height": 0.8482095
+    }
+  },
+  {
+    "id": 133,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00009(1).png",
+    "scratch": 0.015143930000000028,
+    "box": {
+      "left": 0.648208,
+      "top": 0.016462531,
+      "width": 0.32705355,
+      "height": 0.9835375
+    }
+  },
+  {
+    "id": 134,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00013.png",
+    "scratch": 0.060394640000000055,
+    "box": {
+      "left": 0.7302319,
+      "top": 0.052334957,
+      "width": 0.26976812,
+      "height": 0.94766504
+    }
+  },
+  {
+    "id": 135,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00017.png",
+    "scratch": 0.07582754000000003,
+    "box": {
+      "left": 0.74419373,
+      "top": 0,
+      "width": 0.25580627,
+      "height": 1
+    }
+  },
+  {
+    "id": 136,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00018(1).png",
+    "scratch": 0.08290476000000002,
+    "box": {
+      "left": 0.7427568,
+      "top": 0,
+      "width": 0.25724322,
+      "height": 1
+    }
+  },
+  {
+    "id": 137,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00022(1).png",
+    "scratch": 0.020193200000000022,
+    "box": {
+      "left": 0.93715066,
+      "top": 0.004490546,
+      "width": 0.061199963,
+      "height": 0.24323684
+    }
+  },
+  {
+    "id": 138,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00021.png",
+    "scratch": 0.08555144000000003,
+    "box": {
+      "left": 0.0038845162,
+      "top": 0.11147625,
+      "width": 0.2568184,
+      "height": 0.88852376
+    }
+  },
+  {
+    "id": 139,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00018.png",
+    "scratch": 0.08290476000000002,
+    "box": {
+      "left": 0.7427568,
+      "top": 0,
+      "width": 0.25724322,
+      "height": 1
+    }
+  },
+  {
+    "id": 140,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00025.png",
+    "scratch": 0.0960202,
+    "box": {
+      "left": 0.94236547,
+      "top": 0.018461611,
+      "width": 0.05648482,
+      "height": 0.21757755
+    }
+  },
+  {
+    "id": 141,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00029(1).png",
+    "scratch": 0.174145,
+    "box": {
+      "left": 0.013137616,
+      "top": 0.14391603,
+      "width": 0.24930489,
+      "height": 0.856084
+    }
+  },
+  {
+    "id": 142,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00030.png",
+    "scratch": 0.02064379999999999,
+    "box": {
+      "left": 0.719027,
+      "top": 0.0016323498,
+      "width": 0.28097302,
+      "height": 0.95212877
+    }
+  },
+  {
+    "id": 143,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00022.png",
+    "scratch": 0.020193200000000022,
+    "box": {
+      "left": 0.93715066,
+      "top": 0.004490546,
+      "width": 0.061199963,
+      "height": 0.24323684
+    }
+  },
+  {
+    "id": 144,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00033(1).png",
+    "scratch": 0.18572529999999998,
+    "box": {
+      "left": 0.0060497085,
+      "top": 0.10529358,
+      "width": 0.30924848,
+      "height": 0.8947064
+    }
+  },
+  {
+    "id": 145,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00034.png",
+    "scratch": 0.040812249999999994,
+    "box": {
+      "left": 0.67184055,
+      "top": 0.0264522,
+      "width": 0.32131326,
+      "height": 0.9735478
+    }
+  },
+  {
+    "id": 146,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00033.png",
+    "scratch": 0.18572529999999998,
+    "box": {
+      "left": 0.0060497085,
+      "top": 0.10529358,
+      "width": 0.30924848,
+      "height": 0.8947064
+    }
+  },
+  {
+    "id": 147,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00029.png",
+    "scratch": 0.174145,
+    "box": {
+      "left": 0.013137616,
+      "top": 0.14391603,
+      "width": 0.24930489,
+      "height": 0.856084
+    }
+  },
+  {
+    "id": 148,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00037.png",
+    "scratch": 0.5144309,
+    "box": {
+      "left": 0.01787517,
+      "top": 0.12195546,
+      "width": 0.29091576,
+      "height": 0.87804455
+    }
+  },
+  {
+    "id": 149,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00041.png",
+    "scratch": 0.18178296000000005,
+    "box": {
+      "left": 0.020083515,
+      "top": 0.1153074,
+      "width": 0.30204675,
+      "height": 0.8846926
+    }
+  },
+  {
+    "id": 150,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00078.png",
+    "scratch": 0.99903107,
+    "box": {
+      "left": 0.33657798,
+      "top": 0.2286713,
+      "width": 0.18295649,
+      "height": 0.44012964
+    }
+  },
+  {
+    "id": 151,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00082.png",
+    "scratch": 0.99939406,
+    "box": {
+      "left": 0.3479413,
+      "top": 0.20243421,
+      "width": 0.19473144,
+      "height": 0.45011297
+    }
+  },
+  {
+    "id": 152,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00093(1).png",
+    "scratch": 0.9998062,
+    "box": {
+      "left": 0.3820443,
+      "top": 0.2885321,
+      "width": 0.25483653,
+      "height": 0.583266
+    }
+  },
+  {
+    "id": 153,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00093.png",
+    "scratch": 0.9998062,
+    "box": {
+      "left": 0.3820443,
+      "top": 0.2885321,
+      "width": 0.25483653,
+      "height": 0.583266
+    }
+  },
+  {
+    "id": 154,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/bad/garching00081.png",
+    "scratch": 0.99992704,
+    "box": {
+      "left": 0.37790513,
+      "top": 0.27238312,
+      "width": 0.2551142,
+      "height": 0.5951829
+    }
+  },
+  {
+    "id": 155,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00072.png",
+    "scratch": 0.07810459999999997,
+    "box": {
+      "left": 0.72552246,
+      "top": 0,
+      "width": 0.27447754,
+      "height": 0.9385357
+    }
+  },
+  {
+    "id": 156,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00038.png",
+    "scratch": 0.024402900000000005,
+    "box": {
+      "left": 0.27549085,
+      "top": 0.23761947,
+      "width": 0.3465753,
+      "height": 0.76238054
+    }
+  },
+  {
+    "id": 157,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00079.png",
+    "scratch": 0.03311160000000002,
+    "box": {
+      "left": 0.77268165,
+      "top": 0,
+      "width": 0.22731835,
+      "height": 1
+    }
+  },
+  {
+    "id": 158,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00080.png",
+    "scratch": 0.02194700000000005,
+    "box": {
+      "left": 0.010345208,
+      "top": 0.057546753,
+      "width": 0.32227898,
+      "height": 0.94245327
+    }
+  },
+  {
+    "id": 159,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00083.png",
+    "scratch": 0.024214100000000016,
+    "box": {
+      "left": 0.7698706,
+      "top": 0,
+      "width": 0.23012942,
+      "height": 1
+    }
+  },
+  {
+    "id": 160,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00076.png",
+    "scratch": 0.03364663999999995,
+    "box": {
+      "left": 0,
+      "top": 0.085318364,
+      "width": 0.28125066,
+      "height": 0.9146816
+    }
+  },
+  {
+    "id": 161,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00084.png",
+    "scratch": 0.028445300000000007,
+    "box": {
+      "left": 0.765512,
+      "top": 0,
+      "width": 0.23448801,
+      "height": 1
+    }
+  },
+  {
+    "id": 162,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/-5_degree/good/garching00086.png",
+    "scratch": 0.023076500000000055,
+    "box": {
+      "left": 0.76565725,
+      "top": 0,
+      "width": 0.23434275,
+      "height": 1
+    }
+  },
+  {
+    "id": 163,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/+8_degree/good/garching00020.png",
+    "scratch": 0.13580550000000002,
+    "box": {
+      "left": 0.006548731,
+      "top": 0.047583275,
+      "width": 0.29353327,
+      "height": 0.87957764
+    }
+  },
+  {
+    "id": 164,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/bad/023.png",
+    "scratch": 0.47448239999999997,
+    "box": {
+      "left": 0.4135568,
+      "top": 0.3440173,
+      "width": 0.14991367,
+      "height": 0.28624675
+    }
+  },
+  {
+    "id": 165,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/bad/018.png",
+    "scratch": 0.6395778,
+    "box": {
+      "left": 0.35548067,
+      "top": 0.34970474,
+      "width": 0.1474458,
+      "height": 0.3437075
+    }
+  },
+  {
+    "id": 166,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/bad/012.png",
+    "scratch": 0.9781416,
+    "box": {
+      "left": 0.43170607,
+      "top": 0.4820216,
+      "width": 0.07843959,
+      "height": 0.20170626
+    }
+  },
+  {
+    "id": 167,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/014.png",
+    "scratch": 0.05813199999999996,
+    "box": {
+      "left": 0,
+      "top": 0.8343458,
+      "width": 0.036616884,
+      "height": 0.16565418
+    }
+  },
+  {
+    "id": 168,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/011.png",
+    "scratch": 0.025365799999999994,
+    "box": {
+      "left": 0.44281733,
+      "top": 0.5220162,
+      "width": 0.06544042,
+      "height": 0.17139
+    }
+  },
+  {
+    "id": 169,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/014(1).png",
+    "scratch": 0.05813199999999996,
+    "box": {
+      "left": 0,
+      "top": 0.8343458,
+      "width": 0.036616884,
+      "height": 0.16565418
+    }
+  },
+  {
+    "id": 170,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/015.png",
+    "scratch": 0.08542729999999998,
+    "box": {
+      "left": 0.5238822,
+      "top": 0.5144074,
+      "width": 0.07203722,
+      "height": 0.16513473
+    }
+  },
+  {
+    "id": 171,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/021.png",
+    "scratch": 0.11252399999999996,
+    "box": {
+      "left": 0.38851473,
+      "top": 0.5542835,
+      "width": 0.08403823,
+      "height": 0.15252393
+    }
+  },
+  {
+    "id": 172,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/016.png",
+    "scratch": 0.54276574,
+    "box": {
+      "left": 0.4418629,
+      "top": 0.5316869,
+      "width": 0.103493124,
+      "height": 0.2158634
+    }
+  },
+  {
+    "id": 173,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00063.png",
+    "scratch": 0.005976599999999999,
+    "box": {
+      "left": 0.6731822,
+      "top": 0.021814687,
+      "width": 0.29396802,
+      "height": 0.9781853
+    }
+  },
+  {
+    "id": 174,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/017.png",
+    "scratch": 0.54276574,
+    "box": {
+      "left": 0.4418629,
+      "top": 0.5316869,
+      "width": 0.103493124,
+      "height": 0.2158634
+    }
+  },
+  {
+    "id": 175,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00059.png",
+    "scratch": 0.03358419999999995,
+    "box": {
+      "left": 0.7027406,
+      "top": 0,
+      "width": 0.2972594,
+      "height": 1
+    }
+  },
+  {
+    "id": 176,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00063(1).png",
+    "scratch": 0.005976599999999999,
+    "box": {
+      "left": 0.6731822,
+      "top": 0.021814687,
+      "width": 0.29396802,
+      "height": 0.9781853
+    }
+  },
+  {
+    "id": 177,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00062.png",
+    "scratch": 0.03738969999999997,
+    "box": {
+      "left": 0.7690566,
+      "top": 0,
+      "width": 0.23094338,
+      "height": 1
+    }
+  },
+  {
+    "id": 178,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00066.png",
+    "scratch": 0.03344959999999997,
+    "box": {
+      "left": 0.71040976,
+      "top": 0,
+      "width": 0.28959024,
+      "height": 1
+    }
+  },
+  {
+    "id": 179,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00067(1).png",
+    "scratch": 0.03262520000000002,
+    "box": {
+      "left": 0.7345204,
+      "top": 0,
+      "width": 0.26547962,
+      "height": 0.92416245
+    }
+  },
+  {
+    "id": 180,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00067.png",
+    "scratch": 0.03262520000000002,
+    "box": {
+      "left": 0.7345204,
+      "top": 0,
+      "width": 0.26547962,
+      "height": 0.92416245
+    }
+  },
+  {
+    "id": 181,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00078(1).png",
+    "scratch": 0.009765860000000015,
+    "box": {
+      "left": 0,
+      "top": 0,
+      "width": 0.179164,
+      "height": 1
+    }
+  },
+  {
+    "id": 182,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00074.png",
+    "scratch": 0.023967599999999978,
+    "box": {
+      "left": 0.74770576,
+      "top": 0,
+      "width": 0.25229424,
+      "height": 1
+    }
+  },
+  {
+    "id": 183,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00082.png",
+    "scratch": 0.0379197,
+    "box": {
+      "left": 0.009652615,
+      "top": 0.0055405074,
+      "width": 0.22773771,
+      "height": 0.9944595
+    }
+  },
+  {
+    "id": 184,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00072.png",
+    "scratch": 0.030164239999999953,
+    "box": {
+      "left": 0.7278943,
+      "top": 0,
+      "width": 0.2721057,
+      "height": 0.80632114
+    }
+  },
+  {
+    "id": 185,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00078.png",
+    "scratch": 0.009765860000000015,
+    "box": {
+      "left": 0,
+      "top": 0,
+      "width": 0.179164,
+      "height": 1
+    }
+  },
+  {
+    "id": 186,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00081.png",
+    "scratch": 0.03021836,
+    "box": {
+      "left": 0.038589388,
+      "top": 0.044248547,
+      "width": 0.25903776,
+      "height": 0.9557515
+    }
+  },
+  {
+    "id": 187,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/020.png",
+    "scratch": 0.04867049999999995,
+    "box": {
+      "left": 0.0028687583,
+      "top": 0.100292526,
+      "width": 0.32910755,
+      "height": 0.8997075
+    }
+  },
+  {
+    "id": 188,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00085.png",
+    "scratch": 0.00850430000000002,
+    "box": {
+      "left": 0.7818556,
+      "top": 0,
+      "width": 0.21814442,
+      "height": 1
+    }
+  },
+  {
+    "id": 189,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/good/garching00085(1).png",
+    "scratch": 0.00850430000000002,
+    "box": {
+      "left": 0.7818556,
+      "top": 0,
+      "width": 0.21814442,
+      "height": 1
+    }
+  },
+  {
+    "id": 190,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00060.png",
+    "scratch": 0.99999714,
+    "box": {
+      "left": 0.3300802,
+      "top": 0.15389225,
+      "width": 0.23935461,
+      "height": 0.587034
+    }
+  },
+  {
+    "id": 191,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00061(1).png",
+    "scratch": 0.9998989,
+    "box": {
+      "left": 0.34073398,
+      "top": 0.069636226,
+      "width": 0.19908735,
+      "height": 0.47909546
+    }
+  },
+  {
+    "id": 192,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00058.png",
+    "scratch": 0.9991596,
+    "box": {
+      "left": 0.27698717,
+      "top": 0.06156097,
+      "width": 0.19536883,
+      "height": 0.4719694
+    }
+  },
+  {
+    "id": 193,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00061.png",
+    "scratch": 0.9998989,
+    "box": {
+      "left": 0.34073398,
+      "top": 0.069636226,
+      "width": 0.19908735,
+      "height": 0.47909546
+    }
+  },
+  {
+    "id": 194,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00069.png",
+    "scratch": 0.9998281,
+    "box": {
+      "left": 0.3266181,
+      "top": 0.07112508,
+      "width": 0.19883028,
+      "height": 0.4701975
+    }
+  },
+  {
+    "id": 195,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00073.png",
+    "scratch": 0.9993703,
+    "box": {
+      "left": 0.32942978,
+      "top": 0.051507216,
+      "width": 0.19426438,
+      "height": 0.47809198
+    }
+  },
+  {
+    "id": 196,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00064.png",
+    "scratch": 0.99998534,
+    "box": {
+      "left": 0.31357422,
+      "top": 0.13509788,
+      "width": 0.2556288,
+      "height": 0.57934046
+    }
+  },
+  {
+    "id": 197,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00068.png",
+    "scratch": 0.9999827,
+    "box": {
+      "left": 0.35805628,
+      "top": 0.15248445,
+      "width": 0.24381849,
+      "height": 0.58756506
+    }
+  },
+  {
+    "id": 198,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00065.png",
+    "scratch": 0.9999912,
+    "box": {
+      "left": 0.3111548,
+      "top": 0.12916204,
+      "width": 0.2603496,
+      "height": 0.5883224
+    }
+  },
+  {
+    "id": 199,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00071.png",
+    "scratch": 0.99999547,
+    "box": {
+      "left": 0.34272847,
+      "top": 0.1434958,
+      "width": 0.25282237,
+      "height": 0.5841979
+    }
+  },
+  {
+    "id": 200,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00079.png",
+    "scratch": 0.99999356,
+    "box": {
+      "left": 0.38611794,
+      "top": 0.108931914,
+      "width": 0.25832325,
+      "height": 0.58500093
+    }
+  },
+  {
+    "id": 201,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00084.png",
+    "scratch": 0.99750215,
+    "box": {
+      "left": 0.38808712,
+      "top": 0.07672812,
+      "width": 0.19667074,
+      "height": 0.46930623
+    }
+  },
+  {
+    "id": 202,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00075.png",
+    "scratch": 0.999967,
+    "box": {
+      "left": 0.31628716,
+      "top": 0.13418858,
+      "width": 0.2619539,
+      "height": 0.58397347
+    }
+  },
+  {
+    "id": 203,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00076.png",
+    "scratch": 0.99898356,
+    "box": {
+      "left": 0.30515462,
+      "top": 0.066586494,
+      "width": 0.22612828,
+      "height": 0.57595336
+    }
+  },
+  {
+    "id": 204,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part2/bad/garching00083.png",
+    "scratch": 0.99951327,
+    "box": {
+      "left": 0.3669919,
+      "top": 0.15314463,
+      "width": 0.23976508,
+      "height": 0.5834329
+    }
+  },
+  {
+    "id": 205,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00001.png",
+    "scratch": 0.23926276000000002,
+    "box": {
+      "left": 0.39381972,
+      "top": 0.15383331,
+      "width": 0.06589207,
+      "height": 0.25847673
+    }
+  },
+  {
+    "id": 206,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/default_position_part1/good/garching00042.png",
+    "scratch": 0.022874830000000013,
+    "box": {
+      "left": 0.72190684,
+      "top": 0,
+      "width": 0.27809316,
+      "height": 0.95767075
+    }
+  },
+  {
+    "id": 207,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/bad/006.png",
+    "scratch": 0.8422667,
+    "box": {
+      "left": 0.42513722,
+      "top": 0.5417346,
+      "width": 0.09469408,
+      "height": 0.19072086
+    }
+  },
+  {
+    "id": 208,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/bad/008.png",
+    "scratch": 0.9953269,
+    "box": {
+      "left": 0.29791743,
+      "top": 0.28077686,
+      "width": 0.18158278,
+      "height": 0.3767748
+    }
+  },
+  {
+    "id": 209,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/bad/026.png",
+    "scratch": 0.9298428,
+    "box": {
+      "left": 0.39229086,
+      "top": 0.3080959,
+      "width": 0.18620816,
+      "height": 0.3841001
+    }
+  },
+  {
+    "id": 210,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/010.png",
+    "scratch": 0.03338129999999995,
+    "box": {
+      "left": 0.5016228,
+      "top": 0.55923486,
+      "width": 0.082131505,
+      "height": 0.15644002
+    }
+  },
+  {
+    "id": 211,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/good/005.png",
+    "scratch": 0.09172389999999997,
+    "box": {
+      "left": 0.43273196,
+      "top": 0.54040897,
+      "width": 0.074026614,
+      "height": 0.18850785
+    }
+  },
+  {
+    "id": 212,
+    "date": "2021-11-21T16:30:30.000Z",
+    "imgUrl": "/home/euber/Github/verdemarkt/magicbox-data-generator/assets/Garching_handhold/bad/007.png",
+    "scratch": 0.8423883,
+    "box": {
+      "left": 0.3842405,
+      "top": 0.44231662,
+      "width": 0.14955872,
+      "height": 0.31863955
+    }
+  }
+]

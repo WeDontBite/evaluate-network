@@ -1,0 +1,7 @@
+node_modules
+dist
+reports
+reports_assets
+.env
+banana
+assets
